@@ -1,7 +1,7 @@
-hey there im manish sharma,
+cs student, unsw sydney ['30 ]
 
-cs student at unsw sydney (class of 30')
+building small projects to learn how things work — see pinned repos
 
 languages: c, c++, python, javascript, html/css
 
-https://www.linkedin.com/in/manish-sharma-375b95340/
+[email or linkedin here]
