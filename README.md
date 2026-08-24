@@ -4,4 +4,4 @@ building small projects to learn how things work — see pinned repos
 
 languages: c, c++, python, javascript, html/css
 
-[email or linkedin here]
+https://www.linkedin.com/in/manish-sharma-375b95340/
